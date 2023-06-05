@@ -228,6 +228,7 @@ class ClassRoom {
 public: 
 	static int numberClass;
 	ClassRoom() {
+		idClass = "Unknown";
 		numberClass++;
 	}
 
