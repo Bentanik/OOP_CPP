@@ -1,0 +1,8 @@
+Thiết kế 1 class mô tả bệnh nhân trong bệnh viện, gồm các thuoc tinh sau: 
+  - (*) Mã bệnh nhân - số nguyên 
+  - (*) Họ và tên - string 
+  - Ngày nhập viện - datetime 
+  - Mã bệnh - string 
+  - Tiền viện phí - số thực 
+Các thông tin (*) là bắt buộc phải khởi tạo cùng đối tượng (Gợi ý: dùng hàm khởi tạo có tham số).
+Áp dụng tính đóng gói, xây dựng class trên cùng các cơ chế getter/setter cho thuộc tín
