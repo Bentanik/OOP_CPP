@@ -1,0 +1,6 @@
+Xây dựng class mô ta đối tượng ma trận trong đại số, gồm các thuộc tính sau 
+  - Số hàng: int
+  - Số cột: int 
+  - Dữ liệu của ma trận: mảng 2 chiều 
+Áp dụng tính chất encapsulation để viết thuộc tính
+Áp dụng tính chất abstraction để cung cấp phương thức nhân ma trận (tham số truyền vào chính là 1 ma trận khác, kết quả trả về là 1 ma trận tích)
