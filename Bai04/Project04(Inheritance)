@@ -1,0 +1,12 @@
+Một chương trình cần quản lý 1 nhóm các đối tượng điện thoại bao gồm các loại sau: GalaxyS, Iphone, RedmiNote, Xperia. Các điện thoại này có chung 1 số thuộc tính sau:
+Hãng sản xuất: string (Apple, Samsung,...)
+Phiên bản: string (S21, S22 Ultra, 13 Pro Max, …)
+Kích thước tính theo inch: float
+Số năm bảo hành: int
+Các hành vi (method) chung:
+Khởi động
+Gọi điện
+Một số đặc điểm riêng
+Điện thoại iphone có thêm hành vi nhận diện bằng faceid, truyền file bằng AirDrop, mở AppStore
+Điện thoại GalaxyS có thể mở bút S-pen, mở Google Play
+Áp dụng tính chất kế thừa để chia tách đặc điểm chung, đặc điểm riêng và thiết kế các class trên (các phương thức có thể để rỗng hoặc in ra thông báo tuỳ ý)
