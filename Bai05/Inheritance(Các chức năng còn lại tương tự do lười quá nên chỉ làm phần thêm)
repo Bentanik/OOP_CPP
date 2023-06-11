@@ -1,0 +1,10 @@
+Một chương trình cần quản lý các đối tượng là nhân viên trong công ty. Các nhân viên đều có các thuộc tính chung như sau:
+  - Họ tên
+  - Mức lương cơ bản
+  - Số năm kinh nghiệm
+Tuy nhiên, có nhiều cách tính lương tuỳ thuộc vào vị trí công việc của nhân viên đó.
+Nhân viên nhân sự (HR): Mức lương bằng mức cơ bản
+- Kĩ sư lập trình: Được cộng thêm 15% mức cơ bản
+- Nhân viên kinh doanh: có thêm thuộc tính về số hợp đồng ký được trong tháng (ví dụ bằng x), và lương được cộng thêm x% so với mức cơ bản.
+- Thiết kế các class cho các đối tượng nhân viên trên
+- Xây dựng một chương trình quản lý nhân viên trong công ty gồm các chức năng thêm, sửa, xoá,... và chức năng thống kê số tiền lương cần thanh toán cho nhân viên
