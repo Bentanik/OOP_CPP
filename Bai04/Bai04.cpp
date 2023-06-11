@@ -84,4 +84,4 @@ int main() {
 	gs->openStore();
 	delete ip, gs;
 	return 0;
-}
+}	
